@@ -1,0 +1,17 @@
+{
+  "name": "MikeGulp",
+  "version": "0.0.1",
+  "description": "Simple installation of all gulp-related packages",
+  "author": "Mike <mike@simplesimple.ca>",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-babel-minify": "^0.1.12",
+    "gulp-imagemin": "~0.1.5",
+    "gulp-livereload": "~1.1.1",
+    "gulp-minify": "0.0.15",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "~2.2.14"
+  }
+}
